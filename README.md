@@ -36,16 +36,27 @@ The app stores todos in a **PostgreSQL database** via a REST API and uses **Axio
 ## 📂 Project Structure
 
 ├── src
+
 │ ├── components # Reusable UI components
+
 │ ├── features # Redux slices & logic
+
 │ ├── pages # App pages
+
 │ ├── store # Redux store configuration
+
 │ ├── App.jsx # Main component
+
 │ ├── main.jsx # Entry point
+
 │ └── index.css # Tailwind styles
+
 ├── public # Static files
+
 ├── package.json
+
 ├── vite.config.js
+
 └── README.md
 
 yaml
