@@ -104,7 +104,11 @@ Edit
 npm start
 📡 API Endpoints
 Method	Endpoint	Description
+
 GET	/api/todos	Get all todos
+
 POST	/api/todos	Add a new todo
+
 DELETE	/api/todos/:id	Delete a todo
+
 PUT	/api/todos/:id	Update a todo status
